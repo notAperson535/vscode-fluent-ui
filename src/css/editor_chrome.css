@@ -555,6 +555,10 @@ html {
     line-height: 22px !important;
 }
 
+.monaco-workbench .part.sidebar>.title{
+    background: none !important;
+}
+
 .sidebar > .content {
     max-width: 100% !important;
     max-height: 96% !important;
